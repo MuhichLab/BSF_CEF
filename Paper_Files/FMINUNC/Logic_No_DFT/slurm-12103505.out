@@ -1,0 +1,1134 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021a Update 4 (9.10.0.1710957) 64-bit (glnxa64)
+                                July 1, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 4).
+[Warning: MATLAB has disabled some advanced graphics rendering features by
+switching to software OpenGL. For more information, click <a
+href="matlab:opengl('problems')">here</a>.] 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+>> >> 
+d0_end_only =
+
+    0.0550
+    0.0652
+    0.0770
+    0.0906
+    0.1062
+
+>> >> >> >> >> >> 
+final_tab_endMem =
+
+  6x1 table
+
+                Coeff 
+               _______
+
+    gDiffA1    0.00012
+    gDiffA2     0.0001
+    gDiffB1    0.00269
+    gDiffB2    0.00038
+    gDiffC1    -0.0003
+    gDiffC2     -1e-05
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948         0         0         0         0         0         0
+    0.1072         0         0         0         0         0         0
+    0.1177         0         0         0         0         0         0
+    0.1261         0         0         0         0         0         0
+    0.1322         0         0         0         0         0         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 8       : 1.398e-01 
+Combo 2 are these terms and this Value: 7 20   : 3.261e-01 
+Combo 3 are these terms and this Value: 4 8 22 : 2.271e-02 
+This was the dropped L term(spot): 8 
+There are 21 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947         0         0         0         0         0
+    0.1072    0.1072         0         0         0         0         0
+    0.1177    0.1174         0         0         0         0         0
+    0.1261    0.1251         0         0         0         0         0
+    0.1322    0.1301         0         0         0         0         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 12       : 1.446e-02 
+Combo 2 are these terms and this Value: 1 6   : 4.126e-02 
+Combo 3 are these terms and this Value: 1 6 12 : 3.433e-03 
+This was the dropped L term(spot): 12 
+There are 20 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985         0         0         0         0
+    0.1072    0.1072    0.1075         0         0         0         0
+    0.1177    0.1174    0.1151         0         0         0         0
+    0.1261    0.1251    0.1211         0         0         0         0
+    0.1322    0.1301    0.1256         0         0         0         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 16       : 2.463e-01 
+Combo 2 are these terms and this Value: 11 20   : 4.736e-02 
+Combo 3 are these terms and this Value: 7 18 20 : 1.551e-02 
+This was the dropped L term(spot): 7 
+There are 19 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986         0         0         0
+    0.1072    0.1072    0.1075    0.1073         0         0         0
+    0.1177    0.1174    0.1151    0.1147         0         0         0
+    0.1261    0.1251    0.1211    0.1209         0         0         0
+    0.1322    0.1301    0.1256    0.1257         0         0         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 16       : 3.485e-01 
+Combo 2 are these terms and this Value: 18 20   : 4.969e-03 
+Combo 3 are these terms and this Value: 2 3 6 : 2.704e-02 
+This was the dropped L term(spot): 20 
+There are 18 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991         0         0
+    0.1072    0.1072    0.1075    0.1073    0.1075         0         0
+    0.1177    0.1174    0.1151    0.1147    0.1145         0         0
+    0.1261    0.1251    0.1211    0.1209    0.1199         0         0
+    0.1322    0.1301    0.1256    0.1257    0.1239         0         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 15       : 1.002e-01 
+Combo 2 are these terms and this Value: 1 5   : 7.861e-02 
+Combo 3 are these terms and this Value: 1 5 15 : 2.697e-02 
+This was the dropped L term(spot): 15 
+There are 17 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890         0
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945         0
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998         0
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048         0
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098         0
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 16       : 8.309e-02 
+Combo 2 are these terms and this Value: 3 11   : 8.495e-02 
+Combo 3 are these terms and this Value: 11 18 19 : 4.797e-02 
+This was the dropped L term(spot): 18 
+There are 16 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 16       : 1.005e-01 
+Combo 2 are these terms and this Value: 11 19   : 8.588e-02 
+Combo 3 are these terms and this Value: 1 5 11 : 1.680e-01 
+This was the dropped L term(spot): 11 
+There are 15 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203         0         0         0         0         0         0
+    0.1249         0         0         0         0         0         0
+    0.1294         0         0         0         0         0         0
+    0.1338         0         0         0         0         0         0
+    0.1382         0         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 4       : 1.146e-01 
+Combo 2 are these terms and this Value: 4 19   : 3.180e-02 
+Combo 3 are these terms and this Value: 3 4 16 : 2.287e-02 
+This was the dropped L term(spot): 4 
+There are 14 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083         0         0         0         0         0
+    0.1249    0.1104         0         0         0         0         0
+    0.1294    0.1142         0         0         0         0         0
+    0.1338    0.1198         0         0         0         0         0
+    0.1382    0.1277         0         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 19       : 2.007e-02 
+Combo 2 are these terms and this Value: 3 22   : 4.050e-02 
+Combo 3 are these terms and this Value: 3 16 22 : 3.021e-02 
+This was the dropped L term(spot): 16 
+There are 13 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220         0         0         0         0
+    0.1249    0.1104    0.1245         0         0         0         0
+    0.1294    0.1142    0.1270         0         0         0         0
+    0.1338    0.1198    0.1296         0         0         0         0
+    0.1382    0.1277    0.1323         0         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 22       : 1.176e-01 
+Combo 2 are these terms and this Value: 3 22   : 3.082e-01 
+Combo 3 are these terms and this Value: 2 3 6 : 1.221e-01 
+This was the dropped L term(spot): 3 
+There are 12 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022         0         0         0
+    0.1249    0.1104    0.1245    0.1048         0         0         0
+    0.1294    0.1142    0.1270    0.1083         0         0         0
+    0.1338    0.1198    0.1296    0.1129         0         0         0
+    0.1382    0.1277    0.1323    0.1188         0         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 22       : 3.993e-01 
+Combo 2 are these terms and this Value: 2 6   : 4.442e-01 
+Combo 3 are these terms and this Value: 1 5 22 : 2.591e-01 
+This was the dropped L term(spot): 22 
+There are 11 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062         0         0
+    0.1249    0.1104    0.1245    0.1048    0.1078         0         0
+    0.1294    0.1142    0.1270    0.1083    0.1111         0         0
+    0.1338    0.1198    0.1296    0.1129    0.1162         0         0
+    0.1382    0.1277    0.1323    0.1188    0.1233         0         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 19       : 3.169e+00 
+Combo 2 are these terms and this Value: 2 6   : 1.118e-01 
+Combo 3 are these terms and this Value: 1 5 19 : 2.581e-01 
+This was the dropped L term(spot): 6 
+There are 10 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840         0
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856         0
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900         0
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977         0
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091         0
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 19       : 4.888e-01 
+Combo 2 are these terms and this Value: 1 5   : 6.057e-01 
+Combo 3 are these terms and this Value: 9 13 17 : 2.592e-01 
+This was the dropped L term(spot): 13 
+There are 9 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+         0         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 19       : 3.371e+00 
+Combo 2 are these terms and this Value: 10 14   : 2.496e-01 
+Combo 3 are these terms and this Value: 5 10 14 : 1.764e+00 
+This was the dropped L term(spot): 10 
+There are 8 L terms left. 
+
+Initial point is a local minimum.
+
+Optimization completed because the size of the gradient at the initial point 
+is less than the value of the optimality tolerance.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010         0         0         0         0         0         0
+    0.0010         0         0         0         0         0         0
+    0.4904         0         0         0         0         0         0
+    0.4496         0         0         0         0         0         0
+    0.4683         0         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 14       : 1.000e+02 
+Combo 2 are these terms and this Value: 9 14   : 1.000e+02 
+Combo 3 are these terms and this Value: 5 9 14 : 1.000e+02 
+This was the dropped L term(spot): 5 
+There are 7 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550         0         0         0         0         0
+    0.0010    0.0588         0         0         0         0         0
+    0.4904    0.0628         0         0         0         0         0
+    0.4496    0.0671         0         0         0         0         0
+    0.4683    0.0718         0         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 21       : 2.005e-02 
+Combo 2 are these terms and this Value: 9 21   : 2.012e-01 
+Combo 3 are these terms and this Value: 9 19 21 : 4.545e-01 
+This was the dropped L term(spot): 21 
+There are 6 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541         0         0         0         0
+    0.0010    0.0588    0.0586         0         0         0         0
+    0.4904    0.0628    0.0628         0         0         0         0
+    0.4496    0.0671    0.0667         0         0         0         0
+    0.4683    0.0718    0.0706         0         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 9       : 3.249e-02 
+Combo 2 are these terms and this Value: 9 19   : 4.732e-01 
+Combo 3 are these terms and this Value: 9 14 17 : 1.466e+00 
+This was the dropped L term(spot): 9 
+There are 5 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541    0.0480         0         0         0
+    0.0010    0.0588    0.0586    0.0552         0         0         0
+    0.4904    0.0628    0.0628    0.0614         0         0         0
+    0.4496    0.0671    0.0667    0.0665         0         0         0
+    0.4683    0.0718    0.0706    0.0703         0         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 19       : 4.890e-01 
+Combo 2 are these terms and this Value: 14 17   : 2.857e+00 
+Combo 3 are these terms and this Value: 14 17 19 : 2.066e+00 
+This was the dropped L term(spot): 19 
+There are 4 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541    0.0480    0.0475         0         0
+    0.0010    0.0588    0.0586    0.0552    0.0547         0         0
+    0.4904    0.0628    0.0628    0.0614    0.0609         0         0
+    0.4496    0.0671    0.0667    0.0665    0.0658         0         0
+    0.4683    0.0718    0.0706    0.0703    0.0697         0         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 14       : 6.367e+00 
+Combo 2 are these terms and this Value: 1 2   : 1.091e+00 
+Combo 3 are these terms and this Value: 1 2 14 : 4.650e+00 
+This was the dropped L term(spot): 2 
+There are 3 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541    0.0480    0.0475    0.0478         0
+    0.0010    0.0588    0.0586    0.0552    0.0547    0.0529         0
+    0.4904    0.0628    0.0628    0.0614    0.0609    0.0589         0
+    0.4496    0.0671    0.0667    0.0665    0.0658    0.0662         0
+    0.4683    0.0718    0.0706    0.0703    0.0697    0.0750         0
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+Combo 1 are these terms and this Value: 1       : 3.418e-01 
+Combo 2 are these terms and this Value: 1 14   : 2.553e+00 
+Combo 3 are these terms and this Value: 1 14 17 : 5.393e+00 
+This was the dropped L term(spot): 1 
+There are 2 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541    0.0480    0.0475    0.0478    0.0478
+    0.0010    0.0588    0.0586    0.0552    0.0547    0.0529    0.0563
+    0.4904    0.0628    0.0628    0.0614    0.0609    0.0589    0.0663
+    0.4496    0.0671    0.0667    0.0665    0.0658    0.0662    0.0780
+    0.4683    0.0718    0.0706    0.0703    0.0697    0.0750    0.0917
+
+  Column 22
+
+         0
+         0
+         0
+         0
+         0
+
+This was the dropped L term(spot): 14 
+There are 1 L terms left. 
+
+Local minimum possible.
+
+fminunc stopped because it cannot decrease the objective function
+along the current search direction.
+
+
+d0_progress =
+
+  Columns 1 through 7
+
+    0.0948    0.0947    0.0985    0.0986    0.0991    0.0890    0.1180
+    0.1072    0.1072    0.1075    0.1073    0.1075    0.0945    0.1254
+    0.1177    0.1174    0.1151    0.1147    0.1145    0.0998    0.1311
+    0.1261    0.1251    0.1211    0.1209    0.1199    0.1048    0.1350
+    0.1322    0.1301    0.1256    0.1257    0.1239    0.1098    0.1372
+
+  Columns 8 through 14
+
+    0.1203    0.1083    0.1220    0.1022    0.1062    0.0840    0.1176
+    0.1249    0.1104    0.1245    0.1048    0.1078    0.0856    0.1234
+    0.1294    0.1142    0.1270    0.1083    0.1111    0.0900    0.1272
+    0.1338    0.1198    0.1296    0.1129    0.1162    0.0977    0.1292
+    0.1382    0.1277    0.1323    0.1188    0.1233    0.1091    0.1296
+
+  Columns 15 through 21
+
+    0.0010    0.0550    0.0541    0.0480    0.0475    0.0478    0.0478
+    0.0010    0.0588    0.0586    0.0552    0.0547    0.0529    0.0563
+    0.4904    0.0628    0.0628    0.0614    0.0609    0.0589    0.0663
+    0.4496    0.0671    0.0667    0.0665    0.0658    0.0662    0.0780
+    0.4683    0.0718    0.0706    0.0703    0.0697    0.0750    0.0917
+
+  Column 22
+
+    0.0547
+    0.0648
+    0.0765
+    0.0900
+    0.1054
+
+This was the dropped L term(spot): 17 
+There are 0 L terms left. 
+>> >> >> >> >> >> 
+all_tab =
+
+  72x22 table
+
+                 Var1        Var2        Var3        Var4        Var5        Var6        Var7        Var8        Var9       Var10       Var11       Var12       Var13       Var14       Var15      Var16       Var17       Var18       Var19       Var20       Var21       Var22 
+               ________    ________    ________    ________    ________    ________    ________    ________    ________    ________    ________    ________    ________    ________    _______    ________    ________    ________    ________    ________    ________    _______
+
+    A1           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001     0.00011     0.00011           0          0
+    A2           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001      0.0001           0           0          0
+    A3           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0          0           0           0           0           0           0           0          0
+    A4           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A5           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001           0           0           0           0           0           0          0
+    A6           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0          0           0           0           0           0           0           0          0
+    A7           0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A8           0.0001           0           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A9           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001           0           0           0           0          0
+    A10          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001          0           0           0           0           0           0           0          0
+    A11          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A12          0.0001      0.0001           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A13          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0          0           0           0           0           0           0           0          0
+    A14          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001          0
+    A15          0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A16          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A17          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.00011     0.0001
+    A18          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A19          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001           0           0           0          0
+    A20          0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    A22          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001           0           0           0           0           0          0
+    A24          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0          0           0           0           0           0           0           0          0
+    B1           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.00011     0.00012     0.00011     0.00012     0.00011     0.00012     0.00011     0.00016     0.0001     0.00012     0.00013     0.00013     0.00071     0.00081           0          0
+    B2           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.00011     0.00011     0.00011     0.00011     0.00011      0.0001      0.0001     0.0001      0.0001      0.0001       9e-05     0.00046           0           0          0
+    B3           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05       9e-05       9e-05           0           0           0           0          0           0           0           0           0           0           0          0
+    B4           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B5           0.0001      0.0001      0.0001      0.0001       9e-05      0.0001       9e-05       8e-05       9e-05       8e-05       9e-05       8e-05       9e-05       4e-05     0.0001           0           0           0           0           0           0          0
+    B6           0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05       9e-05       9e-05       9e-05       9e-05           0           0          0           0           0           0           0           0           0          0
+    B7           0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B8           0.0001           0           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B9            6e-05       6e-05       7e-05       7e-05       7e-05       6e-05       1e-05       2e-05       6e-05       2e-05       6e-05       6e-05       7e-05    -0.00018     0.0001      -1e-05      -2e-05           0           0           0           0          0
+    B10         0.00011     0.00011     0.00011     0.00011     0.00011     0.00012     0.00012     0.00012     0.00011     0.00012     0.00011     0.00012     0.00011      0.0002          0           0           0           0           0           0           0          0
+    B11           9e-05       9e-05       9e-05       9e-05       9e-05       9e-05       9e-05           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B12           9e-05       9e-05           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B13          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05       9e-05      0.0001       9e-05      0.0001      0.0001      0.0001           0          0           0           0           0           0           0           0          0
+    B14           7e-05       7e-05       7e-05       7e-05       7e-05       7e-05       8e-05       8e-05       7e-05       8e-05       7e-05       7e-05       7e-05       9e-05     0.0001       8e-05       8e-05       8e-05     0.00012     0.00011     0.00025          0
+    B15          0.0001      0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B16          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B17           8e-05       8e-05       8e-05       8e-05       8e-05       8e-05       8e-05       8e-05       7e-05       8e-05       8e-05       8e-05       8e-05     0.00011     0.0001     0.00011     0.00012      0.0001     0.00035     0.00037     0.00138    0.00015
+    B18           9e-05       9e-05       9e-05       9e-05       9e-05       9e-05           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B19          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001       9e-05       9e-05       9e-05      0.0001       8e-05       8e-05       8e-05     0.0001       8e-05       8e-05       8e-05           0           0           0          0
+    B20          0.0001      0.0001      0.0001      0.0001           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    B22          0.0001      0.0001      0.0001      0.0001      0.0001       9e-05       9e-05       9e-05      0.0001       9e-05       9e-05       9e-05      0.0001       7e-05     0.0001       8e-05           0           0           0           0           0          0
+    B24          0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.00011     0.00011     0.00011      0.0001           0           0           0          0           0           0           0           0           0           0          0
+    C1           0.0001      0.0001      0.0001      0.0001     0.00011      0.0001     0.00012     0.00013     0.00011     0.00013     0.00012     0.00014     0.00011     0.00018     0.0001       7e-05       8e-05       9e-05           0      -9e-05           0          0
+    C2            7e-05       6e-05       8e-05       8e-05       8e-05       9e-05       7e-05      0.0001     0.00013      0.0001     0.00011     0.00013       7e-05    -0.00013     0.0001      -6e-05      -8e-05    -0.00012    -0.00018           0           0          0
+    C3          0.00011     0.00011     0.00011     0.00011     0.00011     0.00011      0.0001           0       2e-05       1e-05           0           0           0           0          0           0           0           0           0           0           0          0
+    C4            9e-05       9e-05      0.0001      0.0001       9e-05      0.0001       6e-05       2e-05           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C5           0.0001       9e-05      0.0001      0.0001       9e-05      0.0001       8e-05       8e-05      0.0001       7e-05       9e-05       9e-05     0.00011       5e-05     0.0001           0           0           0           0           0           0          0
+    C6          0.00014     0.00014     0.00013     0.00012     0.00013     0.00011     0.00014     0.00012       7e-05     0.00011       9e-05       9e-05           0           0          0           0           0           0           0           0           0          0
+    C7            9e-05       9e-05       9e-05           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C8           0.0001           0           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C9           -4e-05      -4e-05      -4e-05      -4e-05      -4e-05      -4e-05      -4e-05      -4e-05      -5e-05      -4e-05      -4e-05      -4e-05      -4e-05       1e-05     0.0001           0           0           0           0           0           0          0
+    C10               0           0           0           0           0           0           0           0           0           0           0           0           0      -1e-05          0           0           0           0           0           0           0          0
+    C11               0       1e-05       1e-05       3e-05       2e-05       3e-05       3e-05           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C12               0           0           0           0           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C13           5e-05       5e-05       5e-05       5e-05       5e-05       5e-05       3e-05       4e-05       5e-05       4e-05       5e-05       5e-05       5e-05           0          0           0           0           0           0           0           0          0
+    C14        -0.00012    -0.00012    -0.00012    -0.00012    -0.00013    -0.00013      -9e-05      -9e-05    -0.00012      -9e-05    -0.00013    -0.00011    -0.00014      -8e-05     0.0001    -0.00012    -0.00012    -0.00012    -0.00013    -0.00012    -0.00012          0
+    C15           8e-05       8e-05       8e-05       9e-05       9e-05           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C16           8e-05       8e-05       7e-05       7e-05       7e-05       9e-05       7e-05       7e-05       6e-05           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C17          -7e-05      -7e-05      -8e-05      -8e-05      -8e-05      -6e-05    -0.00012    -0.00013     -0.0001    -0.00013      -9e-05     -0.0001      -6e-05    -0.00012     0.0001           0           0       2e-05      -2e-05      -2e-05    -0.00017     -2e-05
+    C18          -2e-05      -3e-05      -3e-05      -3e-05      -3e-05      -2e-05           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C19         0.00012     0.00012     0.00011     0.00011     0.00012     0.00011     0.00012       2e-05       2e-05       2e-05       6e-05      -8e-05      -3e-05     -0.0001     0.0001      -9e-05      -9e-05      -6e-05           0           0           0          0
+    C20         0.00011     0.00011     0.00011     0.00011           0           0           0           0           0           0           0           0           0           0          0           0           0           0           0           0           0          0
+    C22           8e-05       8e-05       8e-05       8e-05       8e-05       8e-05       5e-05       5e-05       8e-05       5e-05       8e-05       7e-05       8e-05      -8e-05     0.0001      -3e-05           0           0           0           0           0          0
+    C24           9e-05       9e-05       9e-05       9e-05       9e-05       9e-05       9e-05     0.00017     0.00016     0.00017     0.00013           0           0           0          0           0           0           0           0           0           0          0
+    gDiffA1     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012    0.00012     0.00012     0.00012     0.00012     0.00012     0.00012     0.00012    0.00012
+    gDiffA2      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001      0.0001      0.0001      0.0001      0.0001      0.0001      0.0001     0.0001
+    gDiffB1     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269    0.00269     0.00269     0.00269     0.00269     0.00269     0.00269     0.00269    0.00269
+    gDiffB2     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038    0.00038     0.00038     0.00038     0.00038     0.00038     0.00038     0.00038    0.00038
+    gDiffC1     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003    -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003     -0.0003    -0.0003
+    gDiffC2      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05     -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05      -1e-05     -1e-05
+
+>> >> >> >> >> >> >> >> 
